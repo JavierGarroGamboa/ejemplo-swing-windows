@@ -5,8 +5,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
-import static java.awt.Component.CENTER_ALIGNMENT;
-
 public class PatientView  extends BaseView implements ActionListener {
     TextArea display;
     static final String ADD = "add";
